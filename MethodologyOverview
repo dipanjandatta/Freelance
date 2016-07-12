@@ -1,0 +1,5 @@
+We will use a set of similarity measures to find similar patterns in the smaller data set within the larger data set. 
+The similarity measures may include simple correlation measures, euclidean distances, trend matching 
+and can be extended up to complex machine learning algorithms like Artificial Neural Networks.
+The methodology and algorithms to be used will depend on the nature of the data set and the scope of the project 
+and will be finalized after discussion with the stakeholders of the project.
