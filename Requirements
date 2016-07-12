@@ -1,0 +1,26 @@
+We need someone to develop an algorithm that would detect patterns established by the smaller data set A within a larger data set B, 
+using statistical methods, correlation coefficients, or other means as relevant.  
+Both data sets represent price quotes on financial instruments. 
+
+You will be provided with two data sets, containing price quotes on financial instruments (stocks) with 1-minute time intervals. 
+First data set contains current data with 1 day worth of information (Data Set A), 
+and the second contains historic data for the past 10 years (Data Set B). 
+
+The project is split and delivered in the following stages:
+I. Development of the main data comparison and matching procedure:
+1) Identify parameters that uniquely characterize current data set (Set A)
+2) Develop algorithm to search for a segment of data in Set B that contains parameters most resembling those identified in step 1), 
+i.e. find days of historic data that are most similar to current data set.
+3) Produce a list of similar data sets from historic Set B in descending degree of similarity to Set A. 
+
+II. Incorporate additional filters
+1) Incorporate logic of additional filtering in the algorithm that pre-processes Set B to limit scope of comparison with Set A. 
+
+III. Assist our programming team by adjusting algorithm as necessary during live testing to ensure accurate results. 
+
+Required experience and qualifications:
+1) Extensive experience and fluency in applied statistics.
+2) Solid understanding of financial markets and price action.
+3) You received formal education in math and/or statistics, or have otherwise trained in both subjects. 4) Extensive experience developing algorithms.
+4) Experience managing big data is especially welcome, but is not a prerequisite.
+5) Good understanding of programming methods and workflows. You don't need to be a programmer yourself, but must be able to coordinate your work with the established programming team.
